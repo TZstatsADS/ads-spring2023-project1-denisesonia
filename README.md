@@ -1,4 +1,4 @@
-# Applied Data Science @ Columbia
+# Applied Data Science @ Columbia University
 ## Spring 2023
 ## Project 1: A "data story" on the history of philosophy 
 
