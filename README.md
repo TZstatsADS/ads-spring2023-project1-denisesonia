@@ -18,6 +18,8 @@ Term: Spring 2023
 + Topic Modelling 
 + Readibility Index using Flesch Formula
 
+Dataset : https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
